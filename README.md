@@ -34,14 +34,16 @@ g++ portscanner.cpp -o ps
 Output:
 
 Open ports on 127.0.0.1:<br>
-49152<br>
-57621<br>
-60061<br>
-60302<br>
+53<br>
 5000<br>
-29754<br>
 7000<br>
 7768<br>
+8021<br>
+29754<br>
+49152<br>
+51500<br>
+51967<br>
+57621<br>
 
 
 
